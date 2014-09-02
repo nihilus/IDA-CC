@@ -1,0 +1,49 @@
++ support x64 VA
+* cc2ida.idc script updated to support x64 VA
+* More OpenSSL algo detection
+* AES detection method changed
+* XLAT Tables detection method unified
+* Better DES detect
+* Tiny Primes array [2047]
+* Petite 2.2 detection method changed
+* 7z archives better detect
+* Borland Pascal 7.0 PM better detect
+* Borland Pascal 7.0 Win better detect
+* Turbo/Borland C/C++ better detect
+* Installer Inno Setup better detect
++ Installer Wise Install
++ yoda's PERealigner 2.0 NiceStub
++ Zero EP trick (ER/B8)
++ WBox AES Decrypt CryptoPrimitive
++ SVK-Protector 1.43 (EP)
++ UPX$HiT 0.0.1 (EP)
++ ASPack 1.00b (EP)
++ ASPack 2.00 (EP)
++ ASPack 2.001 (EP)
++ Tiny Primes array [1028]
++ FORK-256
++ SEED-128 // RFC 4269
++ Camellia-128
++ SOBER-128
++ UPX 3.09 (EP)
++ PPMd8
++ Microsoft Visual C++ 2013 (EP)
++ Sybase Open Watcom C/C++ 32 (CauseWay DOS Extender 3.x) (EP)
++ MPress 2.1x 32/64 (EP)
++ Petite 1.4 (EP)
++ Diet 1.44 (DOS)
++ Diet 1.45F (DOS)
++ UCEXE/UC2SEA 2.3x (DOS)
++ StonePE (String)
++ SQLITE_SOURCE_ID 3.7.13, 3.7.14, 3.7.17, 3.8.0.2 (XL)
++ SQLITE Check-in 3.8.1 [c78be6d786] (XL)
++ Initial SWF detect (ZLib/Best)
++ Borland RStreamMagic/RStreamBackLink
++ Borland BGI 2.0
++ Borland Turbo Pascal 6.0-7.0 (String)
++ TinyProg (String) // Tranzoa * http://www.tranzoa.com
++ Application Manifests
++ Borland::DVCLAL
++ GHash
++ CWSDPMI (String)
++ NG DB Header Signature
